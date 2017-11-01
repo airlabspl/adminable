@@ -1,7 +1,7 @@
 # airlabs/adminable
 
 [![Build Status](https://travis-ci.org/airlabspl/adminable.svg?branch=master)](https://travis-ci.org/airlabspl/adminable)
-[![Maintainability](https://api.codeclimate.com/v1/badges/da99d4fa9f578f41c137/maintainability)](https://codeclimate.com/github/airlabspl/adminable/maintainability)g
+[![Maintainability](https://api.codeclimate.com/v1/badges/ee0646cb3298d53390ba/maintainability)](https://codeclimate.com/github/airlabspl/adminable/maintainability)
 
 This package provides a scaffold for creating admin accounts.
 
