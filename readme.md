@@ -63,7 +63,7 @@ php artisan adminable:create
 
 Follow the prompts:
 
-![](https://gitlab.com/airlabs/admin/uploads/998fffabba1a5859a1e2bc6ff4c606dd/Zrzut_ekranu_2017-10-31_o_22.00.21.png)
+![](/adminable.png)
 
 ### Configuration
 
